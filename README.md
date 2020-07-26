@@ -6,7 +6,7 @@ I'm a fullstack developer that loves UX, UI and frontend technologies.
 I'm probably working on personal projects and trying out new technologies. 
 Some of the technologies I enjoy are ReactJS and JavaScript. 
 
-In the meantime, you can checkout my [website](bailinhuang.github.io) (it's in the works ⚒)
+In the meantime, you can checkout my [website](https://bailinhuang.github.io) (it's in the works ⚒)
 
 I also take [photos 📷 ](https://www.instagram.com/bailin.photo/)
 
