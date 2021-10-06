@@ -10,6 +10,8 @@ In the meantime, you can checkout my [website](https://bailinhuang.github.io) (i
 
 I also take [photos 📷 ](https://www.instagram.com/bailin.photo/)
 
+**Disclaimer: My repositories are just for fun and may not represent production code. 
+
 <!--
 **bailinhuang/bailinhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
